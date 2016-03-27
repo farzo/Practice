@@ -3,7 +3,11 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
 import java.util.Scanner;
-
+/**
+ * https://code.google.com/codejam/contest/dashboard?c=6224486
+ * @author farzo
+ *
+ */
 
 public class StandingOvation {
 
